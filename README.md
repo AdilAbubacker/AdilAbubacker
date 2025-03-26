@@ -44,6 +44,8 @@ A passionate Full-Stack Developer | Python & Django Specialist
 
 </div>
 
+![Adil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdilAbubacker&show_icons=true&theme=transparent)
+
 
 <!--
 **AdilAbubacker/AdilAbubacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
