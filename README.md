@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 A passionate Full-Stack Developer | Python & Django Specialist
+## Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 <!--
 **AdilAbubacker/AdilAbubacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
