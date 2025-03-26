@@ -30,6 +30,7 @@ A passionate Full-Stack Developer | Python & Django Specialist
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
 <!--
 **AdilAbubacker/AdilAbubacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
