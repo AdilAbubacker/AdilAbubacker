@@ -9,6 +9,8 @@ A passionate Full-Stack Developer | Python & Django Specialist
 
 ## Languages and Tools:
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -40,6 +42,7 @@ A passionate Full-Stack Developer | Python & Django Specialist
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+</div>
 
 
 <!--
