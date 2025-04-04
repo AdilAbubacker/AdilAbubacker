@@ -1,10 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Adil Abubacker
 
 A passionate Full-Stack Developer | Python & Django Specialist
-## Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 
 ## Languages and Tools:
