@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently focusing on **System Design & DSA**
+- 🌱 I love to talk about microservices, system design, backend development, and cloud technologies.
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 - 💬 Ask me about **React, Django, PostgreSQL, LLD**
 - 🚀 I’m building **RentEzy** — a complete property management portal
