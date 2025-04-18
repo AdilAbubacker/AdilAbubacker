@@ -26,9 +26,6 @@ I'm a results-driven Full Stack Developer with a passion for building scalable, 
 ---
 
 
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for stopping by! Feel free to check out my work or reach out for collaboration. 🌟
