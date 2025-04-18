@@ -40,14 +40,12 @@ Currently diving deeper into distributed systems design and exploring the fascin
 
 Got an interesting project or just want to talk tech? Reach out to me at:
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
-- 🧠 [LeetCode](https://leetcode.com/adil_28p/)
-- 💻 [Portfolio Site](https://www.rentezy.homes)
 - 📬 adhilkv313@gmail.com
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
+- 💻 [Portfolio Site](https://www.rentezy.homes)
+- 🧠 [LeetCode](https://leetcode.com/adil_28p/)
 
 ---
 
 
 >*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
-> *"I don’t just write code — I architect solutions, optimize performance, and lead with clarity."*  
-> – Adil Abubacker
