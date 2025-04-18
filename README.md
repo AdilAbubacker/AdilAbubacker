@@ -1,6 +1,43 @@
-## Hi there 👋, I am Adil Abubacker
+<h1 align="center">Hi 👋, I'm Adil</h1>
+<h3 align="center">A passionate full stack developer and startup enthusiast</h3>
 
-A passionate Full-Stack Developer | Python & Django Specialist
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+</p>
+
+---
+
+- 🌱 I’m currently focusing on **System Design & DSA**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 💬 Ask me about **React, Django, PostgreSQL, LLD**
+- 🚀 I’m building **RentEzy** — a complete property management portal
+- ⚡ Fun fact: I lift more than just code 💪
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,react,django,postgresql,aws,linux,git,github,nginx,figma,html,css,js,ts" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="your streak"/>
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-handle)
+- [Hashnode Blog](https://your-blog.hashnode.dev)
 
 
 ## Languages and Tools:
