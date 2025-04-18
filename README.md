@@ -2,8 +2,7 @@
 
 🚀 Full Stack Developer | 🧠 Problem Solver | 🔧 Systems Thinker
 
-Full Stack Developer by day, problem-solving addict by night. I architect scalable systems that make both users and developers smile
-I'm a results-driven Full Stack Developer with a passion for building scalable, high-performance systems. I love turning complex problems into elegant solutions. With a strong foundation in data structures and algorithms, and hands-on experience leading full-scale projects, I thrive at the intersection of backend robustness and frontend finesse.
+I'm a results-driven Full Stack Developer with a passion for building high-performance distributed systems. I architect scalable systems that make both users and developers smile. With a strong foundation in data structures and algorithms, and hands-on experience leading full-scale projects, I thrive at the intersection of backend robustness and frontend finesse.
 
 ---
 
