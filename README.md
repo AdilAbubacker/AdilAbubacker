@@ -6,7 +6,7 @@ I'm a results-driven Full Stack Developer with a passion for building high-perfo
 
 ---
 
-🚀 What I Build With
+## 🚀 What I Build With
 
 ```
 ⚡ Frontend: React, Redux Toolkit, Tailwind CSS, Bootstrap
