@@ -28,6 +28,17 @@ adil = Developer("Adil Abubacker")
 print(adil.greet())
 ```
 
+## 🧠 Current Focus
+
+Currently diving deeper into distributed systems design and exploring the fascinating world of Artificial Intelligence. Always looking for the next technical challenge that makes me think, "This is going to be fun!"
+
+## 📫 Let's Connect
+
+Got an interesting project or just want to talk tech? Reach out to me at adhilkv313@gmail.com!
+
+---
+
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
 ### 🔍 You Can Find Me Here
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
