@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Adil Abubacker!
+# Hello, World! 👋 I'm Adil Abubacker
 
 🚀 Full Stack Developer | 🧠 Problem Solver | 🔧 Systems Thinker
 
