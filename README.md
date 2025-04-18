@@ -48,4 +48,4 @@ Got an interesting project or just want to talk tech? Reach out to me at:
 ---
 
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Clean code always looks like it was written by someone who cares." — Robert C. Martin
