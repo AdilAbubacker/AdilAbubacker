@@ -27,6 +27,10 @@ adil = Developer("Adil Abubacker")
 print(adil.greet())
 ```
 
+## 💡 Fun Fact
+
+When I'm not architecting scalable systems, you might find me Tackling complex algorithms on LeetCode (550+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
+
 
 ## 🧠 Current Focus
 
