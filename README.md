@@ -6,7 +6,6 @@ I'm a results-driven Full Stack Developer with a passion for building scalable, 
 
 ---
 
-## 🛠️ Tech Stack
 ## 🚀 My Tech Universe
 
 ```python
@@ -34,12 +33,7 @@ Currently diving deeper into distributed systems design and exploring the fascin
 
 ## 📫 Let's Connect
 
-Got an interesting project or just want to talk tech? Reach out to me at adhilkv313@gmail.com!
-
----
-
-*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
-### 🔍 You Can Find Me Here
+Got an interesting project or just want to talk tech? Reach out to me at:
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
 - 🧠 [LeetCode](https://leetcode.com/adil_28p/)
