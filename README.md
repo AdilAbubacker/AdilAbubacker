@@ -7,14 +7,26 @@ I'm a results-driven Full Stack Developer with a passion for building scalable, 
 ---
 
 ## 🛠️ Tech Stack
+## 🚀 My Tech Universe
 
-**Languages:** Python, JavaScript, SQL, HTML, CSS  
-**Backend:** Django, DRF, Celery, WebSockets, REST API, JWT  
-**Frontend:** React, Redux Toolkit, Tailwind CSS, Bootstrap  
-**Databases:** PostgreSQL, MySQL, Elasticsearch  
-**DevOps & Cloud:** Docker, Kubernetes, AWS (EKS, EC2, S3, EFS), Nginx, Gunicorn  
-**Others:** Apache Kafka, Redis, Stripe, Razorpay
+```python
+class Developer:
+    def __init__(self, name):
+        self.name = name
+        self.role = "Full Stack Developer"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        self.backend = ["Django", "DRF", "Celery", "Django Channels", "WebSockets"]
+        self.frontend = ["React", "Redux", "Tailwind CSS"]
+        self.infrastructure = ["Docker", "Kubernetes", "AWS EKS", "EC2", "Kafka"]
+        self.databases = ["PostgreSQL", "Elasticsearch", "Redis", "MySQL"]
+        self.currently_learning = "Advanced System Design Patterns"
+        
+    def greet(self):
+        return f"Thanks for stopping by! Let's build something amazing together."
 
+adil = Developer("Adil Abubacker")
+print(adil.greet())
+```
 
 ### 🔍 You Can Find Me Here
 
