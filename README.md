@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Adil Abubacker!
 
-🚀 Full Stack Developer | 🧠 Problem Solver | 🏗️ System Designer
+🚀 Full Stack Developer | 🧠 Problem Solver | 🔧 Systems Thinker
 
 I'm a results-driven Full Stack Developer with a passion for building scalable, high-performance systems. I love turning complex problems into elegant solutions. With over 550+ LeetCode problems solved, a strong foundation in data structures and algorithms, and hands-on experience leading full-scale projects, I thrive at the intersection of backend robustness and frontend finesse.
 
