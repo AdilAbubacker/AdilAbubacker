@@ -22,35 +22,32 @@
 </p>
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,mongodb" alt="languages" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white&label=REST%20Framework" />
+  <!-- 🟦 Square-style icons (SkillIcons) -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=django,react,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman,figma" />
+</p>
 
-  <!-- Backend Tools -->
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery%20Beat-78c091?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
-  <!-- Payments -->
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
-  
-  <!-- DevOps & Infra -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman" />
-  <img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-
-  <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-336699?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%20Channels-44B78B?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<p align="left">
+  <!-- 🛡️ Badge-style icons (Shields.io for tools not in SkillIcons) -->
+  <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery%20Beat-7AB779?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20Channels-44B78B?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EFS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 </p>
 
 ---
