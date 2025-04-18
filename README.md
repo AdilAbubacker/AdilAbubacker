@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently focusing on **System Design & DSA**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-- 💬 Ask me about **Microservices, Backend development, cloud technologies**
+- 💬 Ask me about **Microservices, Backend development and DSA**
 - 🚀 I’m building **RentEzy** — a complete property management portal
 - ⚡ Fun fact: I lift more than just code 💪
 
