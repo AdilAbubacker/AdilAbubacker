@@ -15,31 +15,6 @@ I'm a results-driven Full Stack Developer with a passion for building scalable, 
 **DevOps & Cloud:** Docker, Kubernetes, AWS (EKS, EC2, S3, EFS), Nginx, Gunicorn  
 **Others:** Apache Kafka, Redis, Stripe, Razorpay
 
-### 🔥 Featured Projects
-
-💼 **Qartelz Beez Beta**  
-→ Led the full-stack build of a financial insights platform for comparative analysis and dashboard visualizations.
-
-🏡 **RentEzy**  
-→ A powerful property management system with real-time chat, booking, and automated rent cycles—built on microservices with Kafka and Kubernetes.
-
-📚 **LitHub**  
-→ A polished e-commerce site for book lovers, with variant-based product listings, Razorpay integration, and a wallet system for refunds & credits.
-
-🧪 Mini Experiments:  
-- Netflix Clone 🎬 ([Repo](https://github.com/AdilAbubacker/netflix_clone))  
-- OLX Clone 📦 ([Repo](https://github.com/AdilAbubacker/olx_clone))  
-- React ToDo Manager ✅ ([Repo](https://github.com/AdilAbubacker/todo_react))
-
----
-
-### 📚 Currently Leveling Up
-
-- System Design & Low-Level Architecture
-- Advanced DevOps (EFS, EKS, Helm)
-- Designing Fault-Tolerant Distributed Systems
-
----
 
 ### 🔍 You Can Find Me Here
 
@@ -50,62 +25,7 @@ I'm a results-driven Full Stack Developer with a passion for building scalable, 
 
 ---
 
-### 💬 Let’s Collaborate
 
-Got a killer project? Need a system designed to scale like crazy? Or just want to nerd out about architecture and clean code?
-
-**DMs are open. Let's build something legendary.**
-
----
-
-## 💼 Experience
-
-### 🔹 Full Stack Developer & Project Lead @ QARTELZ (Mar 2024 - Present)
-- Led the development of **Qartelz Beez Beta**, a financial analysis platform.
-- Refactored a 10k+ line monolith into modular, reusable components.
-- Migrated core financial calculations to DRF, reducing API load by 85%.
-- Built a robust PostgreSQL schema and JWT-based access system.
-- Deployed end-to-end using AWS EC2, Docker, and Nginx.
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 [RentEzy](https://www.rentezy.homes) · [🔗 Backend Repo](https://github.com/AdilAbubacker/rentezy_backend)
-A scalable property management platform built with microservices.
-- Real-time chat, bookings, rent automation, Kafka-based services.
-- ElasticSearch-powered search, WebSockets for notifications.
-- Deployed on Kubernetes (AWS EKS + EFS) with Docker.
-
-### 📚 [LitHub](http://www.lithub.shop/) · [🔗 GitHub](https://github.com/AdilAbubacker/LitHub)
-An e-commerce platform for book lovers.
-- Dynamic product variants, customer wallet system, Razorpay integration.
-- Hosted on AWS EC2 + Nginx + Gunicorn for max performance.
-
----
-
-## 🔧 Mini Projects
-
-- 🎬 [StreamVista](https://github.com/AdilAbubacker/netflix_clone) – Netflix clone with React + TMDB API
-- 🛒 [MarketMate](https://github.com/AdilAbubacker/olx_clone) – OLX-style marketplace using Firebase
-- ✅ [TaskFlow](https://github.com/AdilAbubacker/todo_react) – Simple task manager with authentication
-
----
-
-## 🎓 Education & Certifications
-
-- **Software Development** – Brototype (2022–2023)  
-- **Master’s Degree** – Al-Azhar University (2020–2022)  
-- **DSA & System Design** – HeyCoach (2024)
-
----
-
-## 📫 Let's Connect!
-
-- 💌 Email: [adhilkv313@gmail.com](mailto:adhilkv313@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)  
-- 💻 [LeetCode](https://leetcode.com/adil_28p/)  
-- 🌐 [Portfolio Website – Coming Soon!]
 
 ---
 
