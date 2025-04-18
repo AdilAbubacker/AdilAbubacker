@@ -15,6 +15,47 @@ I'm a results-driven Full Stack Developer with a passion for building scalable, 
 **DevOps & Cloud:** Docker, Kubernetes, AWS (EKS, EC2, S3, EFS), Nginx, Gunicorn  
 **Others:** Apache Kafka, Redis, Stripe, Razorpay
 
+### 🔥 Featured Projects
+
+💼 **Qartelz Beez Beta**  
+→ Led the full-stack build of a financial insights platform for comparative analysis and dashboard visualizations.
+
+🏡 **RentEzy**  
+→ A powerful property management system with real-time chat, booking, and automated rent cycles—built on microservices with Kafka and Kubernetes.
+
+📚 **LitHub**  
+→ A polished e-commerce site for book lovers, with variant-based product listings, Razorpay integration, and a wallet system for refunds & credits.
+
+🧪 Mini Experiments:  
+- Netflix Clone 🎬 ([Repo](https://github.com/AdilAbubacker/netflix_clone))  
+- OLX Clone 📦 ([Repo](https://github.com/AdilAbubacker/olx_clone))  
+- React ToDo Manager ✅ ([Repo](https://github.com/AdilAbubacker/todo_react))
+
+---
+
+### 📚 Currently Leveling Up
+
+- System Design & Low-Level Architecture
+- Advanced DevOps (EFS, EKS, Helm)
+- Designing Fault-Tolerant Distributed Systems
+
+---
+
+### 🔍 You Can Find Me Here
+
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
+- 🧠 [LeetCode](https://leetcode.com/adil_28p/)
+- 💻 [Portfolio Site](https://www.rentezy.homes)
+- 📬 adhilkv313@gmail.com
+
+---
+
+### 💬 Let’s Collaborate
+
+Got a killer project? Need a system designed to scale like crazy? Or just want to nerd out about architecture and clean code?
+
+**DMs are open. Let's build something legendary.**
+
 ---
 
 ## 💼 Experience
