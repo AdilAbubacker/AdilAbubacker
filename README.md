@@ -21,6 +21,38 @@
   <img src="https://skillicons.dev/icons?i=python,react,django,postgresql,aws,linux,git,github,nginx,figma,html,css,js,ts" />
 </p>
 
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,mongodb" alt="languages" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white&label=REST%20Framework" />
+
+  <!-- Backend Tools -->
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery%20Beat-78c091?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+  <!-- Payments -->
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap" />
+  
+  <!-- DevOps & Infra -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman" />
+  <img src="https://img.shields.io/badge/AWS%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+
+  <!-- Other Tools -->
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-336699?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20Channels-44B78B?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
 ---
 
 ### 📈 GitHub Stats
