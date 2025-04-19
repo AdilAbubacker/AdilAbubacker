@@ -41,8 +41,8 @@ Currently diving deeper into distributed systems design and exploring the fascin
 Got an interesting project or just want to talk tech? Reach out to me at:
 
 - 📬 adhilkv313@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
-- 🐦 [Twitter](https://www.rentezy.homes)
+-  🧑‍💼  [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
+- 🐦 [Twitter](https://x.com/Adhil_kv_)
 - 🧠 [LeetCode](https://leetcode.com/adil_28p/)
 
 ---
