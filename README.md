@@ -18,7 +18,7 @@ class Developer:
         self.frontend = ["React", "Redux", "Tailwind CSS"]
         self.infrastructure = ["Docker", "Kubernetes", "AWS EKS", "EC2", "Kafka"]
         self.databases = ["PostgreSQL", "Elasticsearch", "Redis", "MySQL"]
-        \\self.currently_learning = "Advanced System Design Patterns"
+        //self.currently_learning = "Advanced System Design Patterns"
         
     def greet(self):
         return f"Thanks for stopping by! Let's build something amazing together."
