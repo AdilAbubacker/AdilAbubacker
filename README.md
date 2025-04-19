@@ -29,7 +29,7 @@ print(adil.greet())
 
 ## 💡 Fun Fact
 
-When I'm not architecting microservices, you might find me tackling complex algorithms on LeetCode (550+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
+When I'm not architecting microservices, you might find me tackling complex algorithms on LeetCode (555+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
 
 
 ## 🧠 Current Focus
@@ -41,8 +41,8 @@ Currently diving deeper into distributed systems design and exploring the fascin
 Got an interesting project or just want to talk tech? Reach out to me at:
 
 - 📬 adhilkv313@gmail.com
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
-- 💻 [Portfolio Site](https://www.rentezy.homes)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
+- 🐦 [Twitter](https://www.rentezy.homes)
 - 🧠 [LeetCode](https://leetcode.com/adil_28p/)
 
 ---
