@@ -38,7 +38,7 @@ Currently diving deeper into distributed systems design and exploring the fascin
 
 ## 📫 Let's Connect
 
-Got an interesting project or just want to talk tech? Reach out to me at:
+Got an interesting project or just want to talk? Reach out to me at:
 
 - 📬 adhilkv313@gmail.com
 -  🧑‍💼  [LinkedIn](https://www.linkedin.com/in/adil-abubacker-a63598232)
