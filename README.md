@@ -28,7 +28,7 @@ print(adil.greet())
 
 ## 💡 Fun Fact
 
-When I'm not architecting microservices, you might find me tackling complex algorithms on LeetCode (555+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
+When I'm not orchestrating microservices, you might find me tackling complex algorithms on LeetCode (555+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
 
 
 ## 🧠 Current Focus
