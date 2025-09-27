@@ -29,10 +29,10 @@ print(adil.greet())
 ## 🏆 Highlights
 ## 🏆 Fun Facts About Me
 
-- 🎖️ **LeetCode Knight** with 1850+ rating (Top 5% globally) - because algorithms are my playground
+- 🎖️ **LeetCode Knight** with 1850+ rating (Top 5% globally) and 800+ problems solved - because algorithms are my playground
+- 🎭 Built **RentEzy** - a property management platform with 10+ microservices that actually talk to each other nicely
 - 🔥 Reduced API load by **85%** through smart architectural decisions
 - 📦 Transformed a 10,000+ line legacy codebase into elegant, reusable components
-- 🎭 Built **RentEzy** - a property management platform with 10+ microservices that actually talk to each other nicely
 - 💰 Created automated payment systems that handle recurring transactions while you sleep
 - 🔍 Engineered high-performance search with Elasticsearch because waiting is not an option
 - Led development of a financial analysis platform, slashing API load by 85%
