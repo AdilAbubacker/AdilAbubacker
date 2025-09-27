@@ -26,13 +26,21 @@ adil = Developer("Adil Abubacker")
 print(adil.greet())
 ```
 
----
+## 🏆 Highlights
 
-🏆 Featured Project: RentEzy - Property Management Platform
-A microservices-based rental platform with real-time chat, automated payments, and Elasticsearch search
-🔗 [Live Demo](link) | 📁 [Code](github-link)
+- Led development of a financial analysis platform, slashing API load by 85%
+- Engineered a microservices architecture with 10+ independently scalable services
+- Built concurrency-safe booking systems with transactional locking
+- Implemented real-time notification systems with WebSockets
+- Containerized applications with Docker & deployed on Kubernetes
 
----
+## 🌟 Featured Projects
+
+### [RentEzy](https://github.com/your-username/RentEzy)
+Property management platform built on microservices architecture with Kafka for async communication, featuring real-time notifications, automated payment systems, and Elasticsearch-powered search.
+
+### [LitHub](https://github.com/your-username/LitHub)
+E-commerce platform for literature with advanced product discovery, dynamic variant selection, and integrated payment processing.
 
 ## 💡 Fun Fact
 
