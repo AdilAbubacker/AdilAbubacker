@@ -28,7 +28,7 @@ print(adil.greet())
 
 ## 🏆 Highlights
 
-- 🎖️ **LeetCode Knight** with 1850+ rating (Top 5% globally) and 800+ problems solved - because algorithms are my playground
+- 🎖️ **LeetCode Knight** with 1850+ rating (Top 5% globally) - because algorithms are my playground
 - 🎭 Built **RentEzy** - a property management platform with 10+ microservices that actually talk to each other nicely
 - 🔥 Reduced API load by **85%** through smart architectural decisions
 - 📦 Transformed a 10,000+ line legacy codebase into elegant, reusable components
@@ -50,7 +50,7 @@ Full-stack book marketplace with advanced filtering, secure payments, and a wall
 
 ## 💡 Fun Fact
 
-When I'm not orchestrating microservices, you might find me tackling complex algorithms on LeetCode (555+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
+When I'm not orchestrating microservices, you might find me tackling complex algorithms on LeetCode (777+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
 
 
 ## 🧠 Current Focus
