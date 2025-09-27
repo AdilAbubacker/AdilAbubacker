@@ -38,7 +38,7 @@ print(adil.greet())
 ### [RentEzy](https://github.com/AdilAbubacker/rentezy_backend)
 A  property management masterpiece with 10+ independently horizontally scalable microservices featuring automated payment system, real-time chat, visit-scheduling and concurrency-safe booking. Built with Django, React, Kafka, Celery, Elasticsearch and deployed on AWS EKS. Because why make it simple when you can make it scalable?
 
-### [LitHub](https://github.com/your-username/LitHub)
+### [LitHub](https://github.com/AdilAbubacker/LitHub)
 Full-stack book marketplace with advanced filtering, secure payments, and a wallet system. Sometimes the best solutions are the elegant ones.
 
 ## 💡 Fun Fact
