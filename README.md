@@ -37,10 +37,10 @@ print(adil.greet())
 ## 🌟 Featured Projects
 
 ### [RentEzy](https://github.com/AdilAbubacker/rentezy_backend)
-Property management platform built on microservices architecture with Kafka for async communication, featuring real-time notifications, automated payment systems, and Elasticsearch-powered search.
+A microservices masterpiece with automated payment system, real-time chat, visit-scheduling and concurrency-safe booking. Built with Django, React, Kafka, and deployed on Kubernetes because why make it simple when you can make it scalable?
 
 ### [LitHub](https://github.com/your-username/LitHub)
-E-commerce platform for literature with advanced product discovery, dynamic variant selection, and integrated payment processing.
+Full-stack book marketplace with advanced filtering, secure payments, and a wallet system. Sometimes the best solutions are the elegant ones.
 
 ## 💡 Fun Fact
 
