@@ -36,7 +36,7 @@ print(adil.greet())
 
 ## 🌟 Featured Projects
 
-### [RentEzy](https://github.com/your-username/RentEzy)
+### [RentEzy](https://github.com/AdilAbubacker/rentezy_backend)
 Property management platform built on microservices architecture with Kafka for async communication, featuring real-time notifications, automated payment systems, and Elasticsearch-powered search.
 
 ### [LitHub](https://github.com/your-username/LitHub)
