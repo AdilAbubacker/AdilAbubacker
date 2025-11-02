@@ -28,15 +28,14 @@ print(adil.greet())
 
 ## 🏆 Highlights
 
-- 🎖️ **LeetCode Knight** with 1850+ rating (Top 5% globally) - because algorithms are my playground
 - 🎭 Built **RentEzy** - a property management platform with 10+ microservices that actually talk to each other nicely
-- 💰 Led and mentored a team of three developers
-- 🔥 Reduced API load by **85%** through smart architectural decisions
+- 🎖️ **LeetCode Knight** with 1886 rating (Top 4% globally) - because algorithms are my playground
+- 🔥 Led full-stack development - reduced API load by **85%** and mentored team of 3 developers
 
 ## 🌟 Featured Projects
 
 ### [RentEzy](https://github.com/AdilAbubacker/rentezy_backend)
-A  property management masterpiece with 10+ independently horizontally scalable microservices featuring automated payment system, real-time chat, visit-scheduling, event-driven notifications, concurrency-safe booking and more. Built with Django, React, Kafka, Celery, Elasticsearch and deployed on AWS EKS. Because why make it simple when you can make it scalable?
+A  property management masterpiece with 10+ independently horizontally scalable microservices featuring automated recurring rent payment system, real-time chat, visit-scheduling, event-driven notifications, concurrency-safe booking and more. Built with Django, React, Kafka, Celery, Elasticsearch and deployed on AWS EKS. Because why make it simple when you can make it scalable?
 
 ### [LitHub](https://github.com/AdilAbubacker/LitHub)
 Full-stack book marketplace with advanced filtering, secure payments, and a wallet system. Sometimes the best solutions are the elegant ones.
