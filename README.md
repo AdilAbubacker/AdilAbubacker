@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Adil Abubacker
 
-🚀 Full Stack Developer | 🧠 Problem Solver | 🔧 Systems Thinker
+🚀 Full Stack Engineer | 🧠 Problem Solver | 🔧 Systems Thinker
 
 Welcome to my corner of the internet where scalable architecture meets clean code! I'm a Full-Stack Developer who gets genuinely excited about microservices, real-time systems, and making computers do impossible things at scale. With a strong foundation in data structures and algorithms, and hands-on experience leading full-scale projects, I write code that makes both users and developers smile.
 
