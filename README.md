@@ -29,7 +29,7 @@ print(adil.greet())
 ## 🏆 Highlights
 
 - 🎭 Built **RentEzy** - a property management platform with 10+ microservices that actually talk to each other nicely
-- 🎖️ **LeetCode Knight** with 1886 rating (Top 4% globally) - because algorithms are my playground
+- 🎖️ **LeetCode Knight** with 1900 rating (Top 4% globally) - because algorithms are my playground
 - 🔥 Led full-stack development - reduced API load by **85%** and mentored team of 3 developers
 
 ## 🌟 Featured Projects
