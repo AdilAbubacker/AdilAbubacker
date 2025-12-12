@@ -61,4 +61,4 @@ Got an interesting project or just want to talk? Reach out to me at:
 ---
 
 
->*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
+#>*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
