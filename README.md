@@ -42,7 +42,7 @@ Full-stack book marketplace with advanced filtering, secure payments, and a wall
 
 ## 💡 Fun Fact
 
-When I'm not orchestrating microservices, you might find me tackling complex algorithms on LeetCode (777+ problems and counting!) or debating whether tabs or spaces are superior (spaces, obviously 😉).
+When I'm not orchestrating microservices, you might find me tackling complex algorithms on LeetCode (777+ problems and counting!) or debating whether tabs or spaces are superior (tabs, obviously 😉).
 
 
 ## 🧠 Current Focus
